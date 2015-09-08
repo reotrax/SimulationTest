@@ -518,6 +518,7 @@ public class SimulationTestSV extends SurfaceView implements SurfaceHolder.Callb
 		}
 	}
 
+
 	//行動パターン決定確認のポップアップ
 	private void layer9_PopUp(Canvas canvas) {
 		switch (scene) {
